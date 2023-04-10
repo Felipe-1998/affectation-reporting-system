@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80vw;
+    padding: 10vw;
+    font-size: 14px;
+    text-align: justify;
+}
+.container>div>h1{
+    text-align: center;
+    font-size: 28px;
+}
+
+.image_events>img{
+    width: 70vw;
+    height: 60vh;
+    border: 2px solid #242424;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.image_events>img:hover{
+    width: 80vw;
+    height: 70vh;
+    border: 2px solid #242424;
+    border-radius: 20px;
+}
+
+.logos{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80vw;
+}
+
+.objEsp{
+    width: 80vw;
+    justify-content: center;
+}
+.objEsp>h2{
+    text-align: center;
+}

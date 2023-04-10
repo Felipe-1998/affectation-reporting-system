@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(3, 11, 31);
+    color: white;
+}
+
+.btn{
+    width: fit-content;
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "affectation-reporting-system",
+  "private_key_id": "42929cff5597567a4d7667f1b4f13d8bbca9cc62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsxmIkp9X+chdm\nBZPwqidY2I+6w+qNCpV4+qSMxvOdpObkzRXEFRqe8g50wTPqq+Dhz1EfgPzpib6H\nXPjn8kt7UuvvjHJ3XcquPA1I7PUYvhUnvaC+BqZ4pVRjl0vZEwyAGrIIUytJE73A\nysaDAbIxA++r4GJzUiTWugbpQ6TDzCyxeA2wrV8jIX5K/ebUVFVMjsOpmagFWcTR\nNam535+XB++xy2VjGolI9WRRuuzEb44084UCFC4jc8S37p5JolD/D2RWhbzNqJ1F\nv9o9Yt53H7lYJTse1iNw9/DTkVx7qYynDNDDJQyd23DZ8fCVmAdJ4W9AqbGAJnx/\ncqHtgo+9AgMBAAECggEAFowuRzPbDsGDcbZFJAmEqIjcmwZR4BWzQ45MNq4JIXfh\nhRcJoeUSLA+RWOXU2WmUZ8u3PcoG15B5G6/DsPtzI9VCwqic0JyeJIZkQnHgG5pE\n5wKNjXcPNxv2ayfVx26/uSEivkjiU39eyl/8L6EjSNfHabIXDw83jQlKeRsxj7ao\n8n/MuMmheE1a+VRSVItWtGLlebA36w+by7HP+nisFKq2c5Du0DXXX2FcHgv9gSho\nm6Zm+8y9wTxxfDQg+UCNLqsGL09iZK/eMhUP6np+JfiiAr1YmaZ4Fe6RuVOeg4ee\nZxrSRSrGOsYj2NltqknCTZW0WrhXs/833c/7qLQCuQKBgQDT8mVGY8rhO7LCIQTj\n/4CBbo24X7HEQHGSGsgkYGigS/sCdms6zrhhgky98awRWJpESJfLhkHIZ8qKbWwh\nHdgtRE9qIC+ftnTtPPFUXy0KymboIR0z0K7EGpmqV0bC56fSYs3JWMfoFRArSuVm\nhPg/Upd2DgYM+JdAN+f1fJ8M1QKBgQDQr6p/JZqBYM3bmCpk1wHmemUroKhZPlUa\nIw4OMIkzphwIAVGX1ZAe7Kw95pdYUpSqUx068MgP0HFcVY0aG4dCOyL3cOdOoh2Q\nYganGy1BSzmwhpJ5z1Kjrq18RM1oNWFt6ymE58EzXTl+Bo8Mprwft0taJFksqDey\nPXlfso/LSQKBgFAyYfvWesfq7OLj15Pl89wF1v4yx3L454BfPef1yuEMnvf5ku13\nlvDeeudMcM1Hd2frB/Ts4itQiqUCbm3BezD1rg78CskmIuw5qR9BvCtfFr0y+nfG\nuLpfTlHUIGRTf37t/+v1+f5pKesXteGq4rwjJkh3WfbCgYi9HroW45/ZAoGBALSM\n12ksIpH/K/vqmfsm3nkGuhNV63FS8ZQschOqwHnUJHp0kaBY4FkxERB5OcXrpL38\nLNT6z0yHXhyx0+Obn5mYynbk0usAba2mcfUQGUZdjCsDMyV6TxhYn7ZdXI3laUcN\nZ52aWVhUNtKnYAplE2wpTGNQAWsWmyF1+FXoimopAoGARdGirIWgdOucdO4DXSzm\n6kQU6qFiAzONBg6ZRdBxzumaNWjcrpiv3Jyy5izlapa/q9umx0tUJC1vEkq/7/J7\nzTpVZlcY5VHhbiaHQ0pbYspm23vu9mN8kpY5XmAU087MmqABLg4CeIgz7cosVa7U\n2yI2PK0+fQxfFE6gAOAh9Js=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-atif5@affectation-reporting-system.iam.gserviceaccount.com",
+  "client_id": "102228674153155557040",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-atif5%40affectation-reporting-system.iam.gserviceaccount.com"
+}

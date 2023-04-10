@@ -1,0 +1,8 @@
+.containe{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: fit-content;
+    padding-top: 23vh;
+    background-color: blue;
+}

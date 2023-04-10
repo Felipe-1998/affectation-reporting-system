@@ -1,0 +1,13 @@
+{
+    "en":{
+        "landing":{
+            "welcome":"Welcome To Affectation Reporting System"
+        }
+
+    },
+    "es":{
+        "landing":{
+            "welcome":"Bienvenido al sistema de reporte de afectacciones"
+        }
+    }
+}

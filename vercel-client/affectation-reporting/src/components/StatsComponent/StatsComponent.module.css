@@ -1,0 +1,42 @@
+.statsContainer{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-size: 15px;
+    color:white;
+    gap: 0.3em;
+    border-radius: 10px;
+}
+.graph{
+    display: flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap: 2em;
+    border: 1px solid white;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.controllers{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 20px;
+    flex-wrap: wrap;
+    border: 2px solid rgb(161, 161, 161);
+    border-radius: 10px;
+    gap: 2em;
+    background-color: black;
+}
+
+.controllerHover {
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 4px;
+    background-color: rgb(9, 0, 75);
+}
+
+.controller{
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 4px;
+} 

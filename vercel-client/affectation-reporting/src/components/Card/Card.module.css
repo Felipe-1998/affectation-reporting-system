@@ -1,0 +1,40 @@
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    background-color: black;
+    border: 1px solid black;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding: 4px;
+    font-size: 5px;
+    width: 90vw;
+}
+
+.cardTop{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    background-color:white;
+    border:1px solid black;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding: 4px;
+    font-size: 5px;
+    width: 90vw;
+}
+
+
+
+.card > h1, div{
+    flex: 3;
+    align-items: center;
+}
+
+.cardTop > h1 {
+    flex: 3;
+}
+
+.card > div > button {
+    font-size: 8px;
+}

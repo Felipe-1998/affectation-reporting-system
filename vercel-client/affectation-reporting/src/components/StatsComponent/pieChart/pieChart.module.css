@@ -1,0 +1,108 @@
+.pieChartContainer{
+    display: flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap: 0.5em;
+    padding: 5px 10px;
+    border-radius: 10px;
+    width: 95vw;
+}
+.ReactEchartsComp{
+    flex: 15;
+    background-color: rgb(16, 12, 42);
+    border-radius: 10px;
+    padding: 5px;
+}
+.filtersAndSorts{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex: 3;
+    height: 69vh;
+    width: 75vw;
+    border: 1px solid white;
+    border-radius: 10px;
+    gap: 0.3em;
+    padding: 5px 10px 5px 10px;
+    background-color: black;
+}
+.filtersAndSorts>button{
+    width: 100%;
+    border: 1px solid white;
+}
+
+.filtersAndSorts > div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.3em;
+    justify-content: center;
+    flex: 4;
+}
+
+.filtersAndSorts > div > button{
+    flex: 2;
+    padding: 0px;
+    width: 2vw;
+}
+
+.checkBoxContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 0.2em;
+    flex-wrap: wrap;
+    flex: 1;
+    width: 100%;
+}
+
+.checkBoxConn{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    align-items:center;
+}
+.GraphContainer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 0.3em;
+    background-color:black;
+    padding: 2px;
+}
+.global{
+    flex: 20;
+    height: 67vh;
+	width: 75vw;
+	background: black;
+	overflow-y: scroll;
+    border-radius: 10px;
+    border: 1px solid white;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+.global::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+.global::-webkit-scrollbar:vertical {
+    width:10px;
+}
+
+.global::-webkit-scrollbar-button:increment, .global::-webkit-scrollbar-button {
+    display: none;
+} 
+
+.global::-webkit-scrollbar:horizontal {
+    height: 10px;
+}
+
+.global::-webkit-scrollbar-thumb {
+    background-color: #797979;
+    border-radius: 20px;
+    border: 2px solid #f1f2f3;
+}
+
+.global::-webkit-scrollbar-track {
+    border-radius: 10px;  
+}

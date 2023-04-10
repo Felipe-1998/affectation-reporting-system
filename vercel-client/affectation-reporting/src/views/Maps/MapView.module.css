@@ -1,0 +1,49 @@
+.mapContainer{
+    display: flex;
+    flex-direction: column;
+    position:initial;
+    width: 100vw;
+    height: 77vh;
+    border-radius: 10px;
+    padding-top:20vh;
+    background-color:violet;
+}
+
+pre {
+    background-color: #f7f7f7;
+	padding: 3px;
+	border: 1px solid #ccc;
+    border-radius: 4px;
+	font-size: 11px;
+	font-family: monospace;
+	white-space: pre;
+	overflow-x: auto;
+    align-items: center;
+    color: darkmagenta;
+}
+
+pre::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+pre::-webkit-scrollbar:vertical {
+    width:10px;
+}
+
+pre::-webkit-scrollbar-button:increment, pre::-webkit-scrollbar-button {
+    display: none;
+} 
+
+pre::-webkit-scrollbar:horizontal {
+    height: 10px;
+}
+
+pre::-webkit-scrollbar-thumb {
+    background-color: #797979;
+    border-radius: 20px;
+    border: 2px solid #f1f2f3;
+}
+
+pre::-webkit-scrollbar-track {
+    border-radius: 10px;  
+}
